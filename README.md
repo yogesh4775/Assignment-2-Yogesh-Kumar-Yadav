@@ -142,8 +142,7 @@ IMDB Dataset Columns:
 MIT License - Free to use for commercial movie production! 🎥
 
 ***
-
-**Made with ❤️ for data-driven filmmaking**  
-*March 2026 | Adiba Ansari* 
+ 
+*March 2026 | Yogesh Kumar Yadav* 
 
 ***
